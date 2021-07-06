@@ -8,10 +8,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
 
-# NOTE: WHEN DOING YOUR ASSIGNMENT, MAKE A FILE WITH YOUR GITHUB USERNAME ADDED AND DO IT IN THERE.
+# NOTE: WHEN DOING YOUR ASSIGNMENT, MAKE A FILEWITH YOUR GITHUB USERNAME ADDED AND DO IT IN THERE.
 
 Example:
  - Assignment: Make a python Discord bot
+   - Directory: `literally the same folder where the assignment.md is on`
    - File name: `<your username(for me it's Helloyunho)>_discord_bot.py`
    - Content: Your code XD
 
