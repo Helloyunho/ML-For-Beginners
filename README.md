@@ -10,6 +10,11 @@
 
 # NOTE: WHEN DOING YOUR ASSIGNMENT, MAKE A FILE WITH YOUR GITHUB USERNAME ADDED AND DO IT IN THERE.
 
+Example:
+ - Assignment: Make a python Discord bot
+   - File name: `<your username(for me it's Helloyunho)>_discord_bot.py`
+   - Content: Your code XD
+
 # Machine Learning for Beginners - A Curriculum
 
 > 🌍 Travel around the world as we explore Machine Learning by means of world cultures 🌍
